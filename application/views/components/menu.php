@@ -17,9 +17,9 @@
   </div>
 </div>
 <header>
-    <nav class="navbar navbar-expand-lg  blue darken-4 navbar-dark">
+    <nav class="navbar navbar-expand-lg  blue darken-4 navbar-dark ">
         <div class="container-fluid mt-2 mb-2 text-capitalize">
-            <a class="navbar-brand" href="#"><strong>Pijaos Salud IPSI</strong></a>
+            <a class="navbar-brand" href="#"><strong>Pijaos salud</strong></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -42,8 +42,8 @@
                     <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
                      aria-haspopup="false" aria-expanded="true">Afiliaciones</a>
                     <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
-                     <a class="dropdown-item" href="#">Incapacidades</a>
-                     <a class="dropdown-item" href="#">Subsidiado</a>
+                     <a class="dropdown-item" href="<?php echo base_url(); ?>incapacidades">Incapacidades</a>
+                     <a class="dropdown-item" href="<?php echo base_url(); ?>subsidiado">Subsidiado</a>
                      <a class="dropdown-item" href="#">Contributivo</a>
                     </div>
                     </li>
@@ -51,10 +51,13 @@
                         <a class="nav-link" href="#">Programa PYP</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Transparencia</a>
+                        <a class="nav-link" href="<?php echo base_url(); ?>transparencia">Transparencia</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Rendición de Cuentas</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="<?php echo base_url(); ?>contactanos">Contactanos</a>
                     </li>
                 </ul>
                 <form class="form-inline">

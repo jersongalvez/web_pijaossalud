@@ -24,4 +24,20 @@ class Inicio extends CI_Controller {
 	public function contratacion() {
 		$this->load->view("contratacion");
 	}
+
+	public function contactanos() {
+		$this->load->view("contactanos");
+	}
+
+	public function incapacidades() {
+		$this->load->view("incapacidades");
+	}
+
+	public function subsidiado() {
+		$this->load->view("subsidiado");
+	}
+
+	public function transparencia() {
+		$this->load->view("transparencia");
+	}
 }

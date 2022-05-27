@@ -56,3 +56,9 @@ $route['quienessomos'] = 'inicio/quienessomos';
 $route['estadosfinancieros'] = 'inicio/estadosfinancieros';
 $route['circulares'] = 'inicio/circulares';
 $route['contratacion'] = 'inicio/contratacion';
+$route['contactanos'] = 'inicio/contactanos';
+$route['transparencia'] = 'inicio/transparencia';
+$route['incapacidades'] = 'inicio/incapacidades';
+$route['subsidiado'] = 'inicio/subsidiado';
+$route['contributivo'] = 'inicio/contributivo';
+
