@@ -17,7 +17,7 @@
         <div class="view">
           <a href="#!">
           	<img class="d-block w-100" src="<?php echo base_url(); ?>public/img/web.png" alt="First slide">
-          	<div class="mask rgba-white-slight text-center d-flex align-items-center justify-content-center">
+          	<div class="mask  text-center d-flex align-items-center justify-content-center">
             	<div class="row">
               	<div class="col-12">
                 	<!-- <p class="h1-responsive red-text font-weight-bold mb-0">QUIENES SOMOS</p> -->
@@ -33,7 +33,7 @@
 <div class="container">
     <div class="row">
       <div class="col-md-12">
-           <h1>Radicacion de Incapacidades</h1>
+           <h4 class="color-azul font-weight-bold text-uppercase">Radicacion de Incapacidades</h4>
            <p class="lead">
              ¿Necesitas ayuda? Comunícate con nosotros y buscamos  soluciones juntos.
              Este es un espacio para todos, no dudes en escribirnos, atenderemos tus solicitudes lo más pronto posible.
@@ -57,7 +57,7 @@
               <label>Celular - telefono</label>
               <input type="text" class="form-control">
           </div>
-          <p>
+          <p class="color-azul">
            Si cuenta con mas de un documento, imagen u otro formato, por favor 
            anexar los documentos en un unico documento en formato .PDF
           </p>

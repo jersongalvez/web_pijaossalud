@@ -17,7 +17,7 @@
         <div class="view">
           <a href="#!">
           	<img class="d-block w-100" src="<?php echo base_url(); ?>public/img/web.png" alt="First slide">
-          	<div class="mask rgba-white-slight text-center d-flex align-items-center justify-content-center">
+          	<div class="mask  text-center d-flex align-items-center justify-content-center">
             	<div class="row">
               	<div class="col-12">
                 	<!-- <p class="h1-responsive red-text font-weight-bold mb-0">QUIENES SOMOS</p> -->
@@ -36,7 +36,7 @@
             <img src="https://mdbootstrap.com/img/illustrations/undraw_connected_world_wuay.svg" class="img-fluid" width="350px;">
         </div>
         <div class="col-md-6">
-          <h6>HISTORIA</h6>
+          <h6 class="color-azul font-weight-bold">HISTORIA</h6>
           <hr>
           <p>
             Es una entidad conformada por Comunidades Indígenas del Tolima; de derecho público
@@ -51,7 +51,7 @@
 
     <div class="row mt-5">
         <div class="col-md-6">
-            <h6>MISIÒN</h6>
+            <h6 class="color-azul font-weight-bold">MISIÒN</h6>
             <hr>
             <p>
                 Construimos una EPS INDIGENA con identidad propia, leal con su organización de base
@@ -71,7 +71,7 @@
             <img src="https://mdbootstrap.com/img/illustrations/undraw_connected_world_wuay.svg" class="img-fluid" width="350px;">
         </div>
         <div class="col-md-6">
-            <h6>VISIÒN</h6>
+            <h6 class="color-azul font-weight-bold">VISIÒN</h6>
             <hr>
             <p>
               Ser la mejor EPS INDÍGENA resolviendo con calidad las necesidades de salud de nuestras
@@ -83,7 +83,7 @@
 
     <div class="row mt-5">
         <div class="col-md-6">
-            <h6>OBJETIVOS</h6>
+            <h6 class="color-azul font-weight-bold">OBJETIVOS</h6>
             <hr>
             <p>
               Determinar e implementar las estrategias de prestación de servicios de salud teniendo en cuenta
@@ -108,7 +108,7 @@
         </div>
       </div>
     </div>
-    <h4 class="mb-4 pb-2">OBJETIVO SOCIAL</h4>
+    <h4 class="mb-4 pb-2 color-azul font-weight-bold">OBJETIVO SOCIAL</h4>
     <p class="text-justify mx-auto mb-4 pb-2">
       Promover el desarrollo integral de las comunidades indígenas, fomentando y promoviendo la identidad,
       solidaridad, participación y autonomía de las comunidades así como el fortalecimiento de organización
@@ -128,7 +128,7 @@
     <section class="px-md-5 mx-md-5 text-center dark-grey-text">
       <div class="row">
         <div class="col-md-6 mb-4 mb-md-0">
-          <h4 class="">POBLACIÒN EPSI</h4>
+          <h4 class="color-azul font-weight-bold">POBLACIÒN EPSI</h4>
           <p class="text-muted">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id quam sapiente
             molestiae
             numquam quas, voluptates omnis nulla ea odio quia similique corrupti magnam, doloremque laborum.</p>
@@ -148,7 +148,7 @@
             <img src="https://mdbootstrap.com/img/Others/screens1.png" class="img-fluid" alt="">
           </div>
         <div class="col-md-6 mb-4 mb-md-0">
-          <h4 class="">ETNIAS EPSI</h4>
+          <h4 class="color-azul font-weight-bold">ETNIAS EPSI</h4>
           <p class="text-muted">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id quam sapiente
             molestiae
             numquam quas, voluptates omnis nulla ea odio quia similique corrupti magnam, doloremque laborum.</p>

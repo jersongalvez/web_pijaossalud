@@ -61,4 +61,6 @@ $route['transparencia'] = 'inicio/transparencia';
 $route['incapacidades'] = 'inicio/incapacidades';
 $route['subsidiado'] = 'inicio/subsidiado';
 $route['contributivo'] = 'inicio/contributivo';
+$route['cuentas'] = 'inicio/cuentas';
+$route['preguntas'] = 'inicio/preguntas';
 

@@ -17,7 +17,7 @@
         <div class="view">
           <a href="#!">
           	<img class="d-block w-100" src="<?php echo base_url(); ?>public/img/web.png" alt="First slide">
-          	<div class="mask rgba-white-slight text-center d-flex align-items-center justify-content-center">
+          	<div class="mask  text-center d-flex align-items-center justify-content-center">
             	<div class="row">
               	<div class="col-12">
                 	<!-- <p class="h1-responsive red-text font-weight-bold mb-0">QUIENES SOMOS</p> -->
@@ -33,8 +33,8 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12">
-      <h2 class="mt-4">índice de transparencia</h2>
-      <h3 class="text-primary">Transparencia y Acceso a la Información Pública – Ley 1712 de 2014</h3>
+      <h3 class="mt-4">INDICE DE TRANSAPARENCIA</h3>
+      <h3 class="color-azul">Transparencia y Acceso a la Información Pública – Ley 1712 de 2014</h3>
       <p>
         De conformidad con la Ley de Transparencia y del Derecho de Acceso a la Información Pública, 
         Ley 1712 del 6 de marzo de 2014 la entidad prestadora de salud Pijaos Salud EPSI pone a disposición de la ciudadanía

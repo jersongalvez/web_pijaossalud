@@ -37,7 +37,19 @@ class Inicio extends CI_Controller {
 		$this->load->view("subsidiado");
 	}
 
+	public function contributivo() {
+		$this->load->view("contributivo");
+	}
+
 	public function transparencia() {
 		$this->load->view("transparencia");
+	}
+
+	public function cuentas() {
+		$this->load->view("rendicion_cuentas");
+	}
+
+	public function preguntas() {
+		$this->load->view("preguntas");
 	}
 }
